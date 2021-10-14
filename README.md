@@ -13,7 +13,7 @@ Preview of top rows of dataset.
 ## Data Cleaning
 Once uploaded the data, It required cleaning process. These are the following changes have been made:
 * Attributes dtype conversion
-* Filtering outliers, Filling nulls value with approriate measure. (e.g mean, foward fill etc.)
+* Filtering outliers, Filling nulls value with approriate measure. 
 * Etc.
 
 ## Exploratory Data Analysis (EDA)
