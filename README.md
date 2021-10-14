@@ -8,7 +8,7 @@ Data analysis project that analyze pima indian diabetes dataset. This dataset us
 ## The Dataset
 Preview of top rows of dataset.
 
-![Dashboard](https://github.com/aimanraz/diabetes-analysis/blob/main/Dataset.JPG?raw=true)
+![](https://github.com/aimanraz/diabetes-analysis/blob/main/Dataset.JPG?raw=true)
 
 ## Data Cleaning
 Once uploaded the data, It required cleaning process. These are the following changes have been made:
@@ -16,9 +16,11 @@ Once uploaded the data, It required cleaning process. These are the following ch
 * Filtering outliers, Filling nulls value with approriate measure. 
 * Etc.
 
+![](https://github.com/aimanraz/diabetes-analysis/blob/main/Distribute.png?raw=true)
+
 ## Exploratory Data Analysis (EDA)
 Visualization might contain some insight about the data. Many combination of attributes that can be used to drawn some insight.
 
-![Dashboard](https://github.com/aimanraz/diabetes-analysis/blob/main/Overall.png?raw=true)
+![](https://github.com/aimanraz/diabetes-analysis/blob/main/Overall.png?raw=true)
 
 let the data drive you...and beyond.
